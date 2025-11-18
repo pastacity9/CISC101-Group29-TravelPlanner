@@ -1,3 +1,6 @@
+Change Log (2025-11-17): 
+– Updated dietary needs rule to ensure all recommended restaurants meet dietary and allergy requirements and to provide alternatives in cases of uncertainty. 
+
 ### **Module 3 — Feasibility & Guardrails**
 
 Apply these **if/else** checks to make sure plans are realistic and adapt to edge cases:
@@ -28,7 +31,7 @@ Apply these **if/else** checks to make sure plans are realistic and adapt to edg
 
 7. **Dietary Needs**
    
-   - If user is vegan or has dietary constraints → ensure all meals match or swap with compliant ones.
+   - If dietary needs or allergies are noted → select only restaurants with matching menus. When information is uncertain, label the option as “check menu first” and suggest one verified alternative. 
 
 8. **Bookings**
    
