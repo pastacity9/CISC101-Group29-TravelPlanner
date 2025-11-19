@@ -1,5 +1,5 @@
 Change Log (2025-11-17): 
-– Updated dietary needs rule to ensure all recommended restaurants meet dietary and allergy requirements and to provide alternatives in cases of uncertainty. 
+– Updated dietary needs rule to ensure all recommended restaurants meet dietary and allergy requirements and to provide alternatives in cases of uncertainty.
 
 ### **Module 3 — Feasibility & Guardrails**
 
